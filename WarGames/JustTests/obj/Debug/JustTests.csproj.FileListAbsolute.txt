@@ -1,0 +1,17 @@
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\WarGames\JustTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\WarGames\JustTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\WarGames\JustTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\WarGames\JustTests\bin\Debug\JustTests.dll
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\WarGames\JustTests\bin\Debug\JustTests.pdb
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\WarGames\JustTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\WarGames\JustTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\WarGames\JustTests\bin\Debug\WarGames.exe
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\WarGames\JustTests\bin\Debug\WarGames.pdb
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\WarGames\JustTests\bin\Debug\WarGames.exe.config
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\WarGames\JustTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\WarGames\JustTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\WarGames\JustTests\obj\Debug\JustTests.csprojAssemblyReference.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\WarGames\JustTests\obj\Debug\JustTests.csproj.CoreCompileInputs.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\WarGames\JustTests\obj\Debug\JustTests.csproj.CopyComplete
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\WarGames\JustTests\obj\Debug\JustTests.dll
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\WarGames\JustTests\obj\Debug\JustTests.pdb

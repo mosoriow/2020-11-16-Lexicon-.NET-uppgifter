@@ -1,0 +1,7 @@
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\WarGames\WarGames\bin\Debug\WarGames.exe.config
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\WarGames\WarGames\bin\Debug\WarGames.exe
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\WarGames\WarGames\bin\Debug\WarGames.pdb
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\WarGames\WarGames\obj\Debug\WarGames.csprojAssemblyReference.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\WarGames\WarGames\obj\Debug\WarGames.csproj.CoreCompileInputs.cache
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\WarGames\WarGames\obj\Debug\WarGames.exe
+D:\Users\Manuel Osorio Wallace\projects\Lexicon - .NET Developer\WarGames\WarGames\obj\Debug\WarGames.pdb
